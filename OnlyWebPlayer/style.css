@@ -110,10 +110,8 @@ border: none;
 
 .video-container {
     width: 100%;
-    min-height: 50px;
-    max-height: 500px;
     margin: auto;
-    /*height: calc((9 / 16) * 100%);*/
+    height: calc((9 / 16) * 100%);
     position: relative;
     color: #fff;
     overflow: hidden;
@@ -126,11 +124,6 @@ border: none;
   
   .video-container video {
     width: 100%;
-     min-height: 50px;
-    max-height: 500px;
-    
-    
-
   }
   
   .custom-loader {
