@@ -125,6 +125,8 @@ border: none;
   
   .video-container video {
     width: 100%;
+    min-height: auto;
+    
     
 
   }
